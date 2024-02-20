@@ -1,2 +1,2 @@
 # E-Sport
-Site realizat in cvadrul tutorialului video de front end
+Site realizat in cadrul tutorialului video de front-end
